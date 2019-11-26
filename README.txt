@@ -1,6 +1,8 @@
 
     Submission for ozcanli@kth.se
 
+    Instructions:
+
     1- Clone and import the and code into your preferred IDE for java(Eclipse etc.) using a new maven project.
     
     2- There are 4 packages, same level: cases (should contain 3 test case classes), pages (should contain LoginPage), 
