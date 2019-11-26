@@ -350,7 +350,7 @@ public class VisualAITests extends TestBase{
 	}
 	
 	@Test
-	public void test_v1_v2_c5_dynamic_content() {
+	public void test_c5_v1_v2_dynamic_content() {
 		//initiate the test v1
 		System.out.println("Test visual AI using Applitools SDK, case 5 starts...");
 		
