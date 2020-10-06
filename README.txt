@@ -1,5 +1,7 @@
 
     For learning purposes. @cozca85
+    
+    Java + Selenium test cases and applitools tutorial.
 
     Instructions:
 
