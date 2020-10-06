@@ -1,5 +1,5 @@
 
-    Use for learning purposes. @cozca85
+    For learning purposes. @cozca85
 
     Instructions:
 
